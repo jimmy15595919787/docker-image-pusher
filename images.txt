@@ -1,1 +1,2 @@
-abesesr/awx:17.1.0
+#abesesr/awx:17.1.0
+--platform=linux/amd64  alpine/ansible:2.18.6
