@@ -1,1 +1,1 @@
-abesesr/awx
+abesesr/awx:17.1.0
